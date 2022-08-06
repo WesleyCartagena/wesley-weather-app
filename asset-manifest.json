@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wesley-weather-app/static/css/main.716d4991.css",
+    "main.js": "/wesley-weather-app/static/js/main.da0d9873.js",
+    "static/js/787.12059ce7.chunk.js": "/wesley-weather-app/static/js/787.12059ce7.chunk.js",
+    "static/media/default1.png": "/wesley-weather-app/static/media/default1.8ab86acb33aee951030a.png",
+    "index.html": "/wesley-weather-app/index.html",
+    "main.716d4991.css.map": "/wesley-weather-app/static/css/main.716d4991.css.map",
+    "main.da0d9873.js.map": "/wesley-weather-app/static/js/main.da0d9873.js.map",
+    "787.12059ce7.chunk.js.map": "/wesley-weather-app/static/js/787.12059ce7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716d4991.css",
+    "static/js/main.da0d9873.js"
+  ]
+}
