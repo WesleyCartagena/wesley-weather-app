@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wesley-weather-app/static/css/main.0466af72.css",
-    "main.js": "/wesley-weather-app/static/js/main.e8002a9f.js",
+    "main.css": "/wesley-weather-app/static/css/main.bda7f89f.css",
+    "main.js": "/wesley-weather-app/static/js/main.ab2bdfd1.js",
     "static/js/787.12059ce7.chunk.js": "/wesley-weather-app/static/js/787.12059ce7.chunk.js",
     "static/media/default.jpg": "/wesley-weather-app/static/media/default.bc8d19af1d79fe7524e7.jpg",
     "index.html": "/wesley-weather-app/index.html",
-    "main.0466af72.css.map": "/wesley-weather-app/static/css/main.0466af72.css.map",
-    "main.e8002a9f.js.map": "/wesley-weather-app/static/js/main.e8002a9f.js.map",
+    "main.bda7f89f.css.map": "/wesley-weather-app/static/css/main.bda7f89f.css.map",
+    "main.ab2bdfd1.js.map": "/wesley-weather-app/static/js/main.ab2bdfd1.js.map",
     "787.12059ce7.chunk.js.map": "/wesley-weather-app/static/js/787.12059ce7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0466af72.css",
-    "static/js/main.e8002a9f.js"
+    "static/css/main.bda7f89f.css",
+    "static/js/main.ab2bdfd1.js"
   ]
 }
