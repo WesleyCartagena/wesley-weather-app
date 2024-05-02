@@ -7,9 +7,13 @@ import { faWind, faTemperatureFull, faTemperatureArrowDown, faTemperatureArrowUp
 function App() {
   const [data, setData] = useState({});
   const [location, setLocation] = useState('');
+  const [data, setData] = useState({});
+  const [location, setLocation] = useState('');
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=952dabd57f952e5bd2486c49693bf61c`;
 
   const searchLocation = (event) => {
+
+  const searchLocation = async (event) => {
     if (event.key === 'Enter') {
       axios.get(url)
         .then((response) => {
@@ -21,6 +25,8 @@ function App() {
         });
       setLocation('');
     }
+  };
+
   };
 
   return (
