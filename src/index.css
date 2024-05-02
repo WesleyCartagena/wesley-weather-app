@@ -24,15 +24,17 @@ code {
   width: 100%;
   height: 100vh;
   position: relative;
-  
+  margin-top: 100px;
+  border-radius: 25px;
 }
 
 .container{
-
+  border-radius: 25px;
 }
 .weather-app .search-bar {
   text-align: center;
   padding: 1rem;
+  border-radius: 25px;
 }
 
 .weather-app input {
